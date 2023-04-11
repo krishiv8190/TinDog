@@ -12,6 +12,7 @@ You can access the live demo of the website [here](https://krishiv8190.github.io
 ## Technologies Used
 - HTML
 - CSS
+- Bootstrap
 ## Setup
 
 ##### 1. Clone the repository:
